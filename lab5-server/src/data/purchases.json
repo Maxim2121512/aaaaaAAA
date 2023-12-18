@@ -1,0 +1,144 @@
+{
+  "1": {
+    "AAPL": {
+      "totalCount": "5",
+      "lossProfit": "58.5499999999999",
+      "purchases": [
+        {
+          "date": "2022-01-05",
+          "price": "179.61",
+          "count": "5"
+        }
+      ]
+    },
+    "AMZN": {
+      "totalCount": "2",
+      "lossProfit": "0",
+      "purchases": [
+        {
+          "date": "2022-02-14",
+          "price": "151.751",
+          "count": "2"
+        }
+      ]
+    },
+    "AMD": {
+      "totalCount": "3",
+      "lossProfit": "0",
+      "purchases": [
+        {
+          "date": "2022-02-15",
+          "price": "117.19",
+          "count": "3"
+        }
+      ]
+    },
+    "CSCO": {
+      "totalCount": "1",
+      "lossProfit": "0",
+      "purchases": [
+        {
+          "date": "2022-02-16",
+          "price": "54.13",
+          "count": "1"
+        }
+      ]
+    },
+    "MSFT": {
+      "totalCount": "2",
+      "lossProfit": "0",
+      "purchases": [
+        {
+          "date": "2022-02-17",
+          "price": "296.36",
+          "count": "2"
+        }
+      ]
+    },
+    "QCOM": {
+      "totalCount": "16",
+      "lossProfit": "-172.0700000000001",
+      "purchases": [
+        {
+          "date": "2022-02-18",
+          "price": "167.47",
+          "count": "5"
+        },
+        {
+          "date": "2022-02-25",
+          "price": "167.61",
+          "count": "6"
+        },
+        {
+          "date": "2022-02-28",
+          "price": "167.61",
+          "count": "3"
+        },
+        {
+          "date": "2023-01-26",
+          "price": "134.405",
+          "count": "2"
+        }
+      ]
+    }
+  },
+  "2": {
+    "AAPL": {
+      "totalCount": "1",
+      "lossProfit": "31.77000000000035",
+      "purchases": [
+        {
+          "date": "2022-03-22",
+          "price": "165.51",
+          "count": "1"
+        }
+      ]
+    },
+    "AMZN": {
+      "totalCount": "1",
+      "lossProfit": "0",
+      "purchases": [
+        {
+          "date": "2022-03-25",
+          "price": "164.00",
+          "count": "1"
+        }
+      ]
+    },
+    "TSLA": {
+      "totalCount": "3",
+      "lossProfit": "0",
+      "purchases": [
+        {
+          "date": "2022-03-28",
+          "price": "355.0333",
+          "count": "3"
+        }
+      ]
+    }
+  },
+  "4": {
+    "AAPL": {
+      "totalCount": "1",
+      "lossProfit": "0",
+      "purchases": [
+        {
+          "date": "2022-04-22",
+          "price": "166.46",
+          "count": "1"
+        }
+      ]
+    },
+    "AMD": {
+      "totalCount": "1",
+      "lossProfit": "0",
+      "purchases": [
+        {
+          "date": "2022-04-25",
+          "price": "89.86",
+          "count": "1"
+        }
+      ]
+    }
+  }
+}
